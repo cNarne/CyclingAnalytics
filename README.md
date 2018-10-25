@@ -1,4 +1,4 @@
-# CyclingAnalytics
+# CyclingAnalytics (<i>https://cnarne.github.io/CyclingAnalytics/</i>)
 
 ## A small project to analyze power data
 Ever wonder what your avg. power is for a given length of time? 
