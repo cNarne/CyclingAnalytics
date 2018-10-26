@@ -1,0 +1,31 @@
+{
+  "name": "cyclinganalytics",
+  "version": "1.0.0",
+  "description": "Cycling metrics analytics",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cNarne/CyclingAnalytics.git"
+  },
+  "keywords": [
+    "Cycling",
+    "power",
+    "FTP",
+    "Average",
+    "Watt"
+  ],
+  "author": "Chas Narne",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cNarne/CyclingAnalytics/issues"
+  },
+  "homepage": "https://github.com/cNarne/CyclingAnalytics#readme",
+  "dependencies": {
+    "connect": "^3.6.6",
+    "easy-fit": "0.0.8",
+    "serve-static": "^1.13.2"
+  }
+}
